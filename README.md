@@ -20,7 +20,7 @@ The **City Search Application** is a simple yet powerful Android application tha
 - **Android Jetpack**
   - **Compose** for building UI
   - **ViewModel** for managing UI-related data
-  - **LiveData** for observable data holders
+  - **StateFlow** for observable data holders
   - **Navigation** for in-app navigation
 - **Hilt** for dependency injection
 - **Gson** for JSON parsing
